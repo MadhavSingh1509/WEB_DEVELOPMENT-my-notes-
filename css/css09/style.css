@@ -1,0 +1,13 @@
+div{
+height:100px;
+width:100px;
+    display:inline-block;
+    background-color: aqua;
+    visibility:hidden;
+}
+span{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    background-color:aquamarine
+}
